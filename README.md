@@ -116,9 +116,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriRamCharan-dev&show_icons=true&theme=dark&hide_border=false&bg_color=000000&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&border_color=30363d)](https://github.com/SriRamCharan-dev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriRamCharan-dev&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriRamCharan-dev&layout=compact&theme=dark&hide_border=false&bg_color=000000&text_color=ffffff&title_color=58a6ff&border_color=30363d&langs_count=8)](https://github.com/SriRamCharan-dev)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriRamCharan-dev&layout=compact&theme=tokyonight)
 
 </div>
 
