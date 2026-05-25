@@ -5,8 +5,8 @@
 <p><b>Full-Stack Developer</b> • <b>Data Engineering</b> • <b>Problem Solving</b></p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=00D9FF&center=true&vCenter=true&width=720&lines=Building+clean%2C+scalable+web+applications;Currently+learning+cloud+and+system+design;Open+to+collaboration+and+open-source"
-  alt="Professional headline"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1300&color=00D9FF&center=true&vCenter=true&width=560&lines=Building+scalable+web+applications;Learning+cloud+%26+system+design;Open+to+collaboration+and+open-source"
+  alt="Headline"
 />
 
 <p>
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p><sub>📍 Rajamahendravaram, Andhra Pradesh, India</sub></p>
+<p><sub>Rajamahendravaram, Andhra Pradesh, India</sub></p>
 
 </div>
 
