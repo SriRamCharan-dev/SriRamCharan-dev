@@ -69,8 +69,8 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Campus Bulletin** | Full-Stack Data Portal with async CRUD & Auth | Node.js, Express, MySQL | [View](https://livecampusbulletin.railway.app) |
-| **Bank Management** | Persistent storage system with transaction integrity | C, File I/O | [View](https://github.com/SriRamCharan-dev) |
-| **Book-Bite** | Responsive UI with dynamic DOM rendering | JS (ES6), HTML, CSS | [View](https://github.com/SriRamCharan-dev) |
+| **Bank Management** | Persistent storage system with transaction integrity | C, File I/O | [View](https://github.com/SriRamCharan-dev/Bank_Management_System) |
+| **Book-Bite** | Responsive UI with dynamic DOM rendering | JS (ES6), HTML, CSS | [View](https://github.com/SriRamCharan-dev/Book-Bite) |
 
 ---
 
