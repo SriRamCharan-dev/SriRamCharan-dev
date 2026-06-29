@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SriRamCharan-dev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="mailto:sriramcharannandigam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -38,17 +34,22 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 
 ---
 
-### 📊 Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SriRamCharan-dev&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriRamCharan-dev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-  <img src="https://streak-stats.demolab.com?user=SriRamCharan-dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=SriRamCharan-dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="165" />
+</p>
+
+### 🧩 LeetCode
+
+<p align="center">
   <a href="https://leetcode.com/u/Nandigam_Sriram_Charan/">
-    <img src="https://leetcard.jacoblin.cool/Nandigam_Sriram_Charan?theme=dark&font=Baloo_2&ext=activity" alt="LeetCode Stats" height="220" />
+    <img src="https://leetcard.jacoblin.cool/Nandigam_Sriram_Charan?theme=dark&font=Baloo_2" alt="LeetCode Stats" height="165" />
   </a>
 </p>
 
@@ -81,6 +82,10 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 | **2020** | ICSE (X) | St. ANN'S E.M School | 87% |
 
 ---
+
+<p align="center">
+  <img src="https://github-view-counter.vercel.app/api?username=SriRamCharan-dev&label=Visitors&color=FFFFFF&bgColor=00D9FF&labelBgColor=0D1117&style=rounded&layout=split&iconColor=FFFFFF" alt="Profile Visitors" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=120&section=footer" alt="Footer" />
 
