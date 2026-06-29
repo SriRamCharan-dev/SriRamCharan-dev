@@ -13,10 +13,10 @@
   <a href="https://github.com/SriRamCharan-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/sriramcharan" target="_blank">
+  <a href="https://www.linkedin.com/in/sri-ram-charan-nandigam-510985323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/sriramcharan">
+  <a href="https://leetcode.com/u/Nandigam_Sriram_Charan/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
