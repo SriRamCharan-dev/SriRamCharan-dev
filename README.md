@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SriRamCharan-dev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="mailto:sriramcharannandigam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -27,32 +31,26 @@
 
 I'm a **Full-Stack Developer** passionate about building robust, scalable web applications and optimizing data workflows. I focus on writing clean, maintainable code and delivering high-performance user experiences.
 
-- 🔭 I’m currently working on enhancing my **System Design** skills.
-- 🌱 I’m currently learning **Cloud Computing & DevOps**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 🔭 I'm currently working on enhancing my **System Design** skills.
+- 🌱 I'm currently learning **Cloud Computing & DevOps**.
+- 👯 I'm looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **JavaScript, Node.js, or SQL**.
 
 ---
 
 ### 📊 Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SriRamCharan-dev&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Stats" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriRamCharan-dev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" height="180" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://leetcode-stats-six.vercel.app/?username=sriramcharan&theme=dark" alt="LeetCode Stats" height="180" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SriRamCharan-dev&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriRamCharan-dev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=SriRamCharan-dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Nandigam_Sriram_Charan/">
+    <img src="https://leetcard.jacoblin.cool/Nandigam_Sriram_Charan?theme=dark&font=Baloo_2&ext=activity" alt="LeetCode Stats" height="220" />
+  </a>
+</p>
 
 ---
 
@@ -84,8 +82,6 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SriRamCharan-dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=120&section=footer" alt="Footer" />
 
 </div>
