@@ -37,8 +37,8 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriRamCharan-dev&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriRamCharan-dev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=SriRamCharan-dev&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SriRamCharan-dev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
